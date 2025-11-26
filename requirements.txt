@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pandas
+joblib
+scikit-learn
+datasist
+missingno
+sklearn-features
